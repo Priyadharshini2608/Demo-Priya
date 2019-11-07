@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="value" label="Value" language="en" table="x_354185_demo_priy_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>value</element>
+            <help/>
+            <hint/>
+            <label>Value</label>
+            <language>en</language>
+            <name>x_354185_demo_priy_table</name>
+            <plural>Values</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-07 06:53:11</sys_created_on>
+            <sys_id>a0f03594db0100109c63f2823996192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Value</sys_name>
+            <sys_package display_value="Demo_Priya" source="x_354185_demo_priy">94007914db0100109c63f2823996195e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo_Priya">94007914db0100109c63f2823996195e</sys_scope>
+            <sys_update_name>sys_documentation_x_354185_demo_priy_table_value_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-07 06:53:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

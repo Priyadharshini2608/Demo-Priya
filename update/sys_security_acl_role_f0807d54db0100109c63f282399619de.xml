@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-07 06:51:18</sys_created_on>
+        <sys_id>f0807d54db0100109c63f282399619de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_354185_demo_priy_table.x_354185_demo_priy.table_user</sys_name>
+        <sys_package display_value="Demo_Priya" source="x_354185_demo_priy">94007914db0100109c63f2823996195e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo_Priya">94007914db0100109c63f2823996195e</sys_scope>
+        <sys_security_acl display_value="x_354185_demo_priy_table">70807d54db0100109c63f282399619cf</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f0807d54db0100109c63f282399619de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-07 06:51:18</sys_updated_on>
+        <sys_user_role display_value="x_354185_demo_priy.table_user" name="x_354185_demo_priy.table_user">6c80b954db0100109c63f2823996191e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
